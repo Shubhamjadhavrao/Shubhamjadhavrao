@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Jadhav</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/shubham-jadhav-b710b2225</h3>
 <p align="left">
 </p>
 
